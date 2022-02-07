@@ -660,7 +660,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             var but = [
           {
             "urlButton": {
-              "displayText": "YouTube Creator",
+              "displayText": "Ig Creator",
               "url": `${youtube}`
             }
           },
@@ -1128,7 +1128,7 @@ break
 						var but = [
 						{
 							"urlButton": {
-								"displayText": "YouTube Creator",
+								"displayText": "Ig Creator",
 								"url": `${youtube}`
 								}
 								},
@@ -1163,7 +1163,7 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1200,7 +1200,7 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1237,7 +1237,7 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1274,7 +1274,7 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1311,7 +1311,7 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1348,7 +1348,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1385,7 +1385,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1421,7 +1421,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1457,7 +1457,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1494,7 +1494,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1531,7 +1531,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1567,7 +1567,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1603,7 +1603,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1639,7 +1639,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1675,7 +1675,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1711,7 +1711,7 @@ break
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1748,7 +1748,7 @@ case 'textprocmd': case 'textpromenu':
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1784,7 +1784,7 @@ case 'textprocmd': case 'textpromenu':
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
@@ -1822,7 +1822,7 @@ case 'textprocmd': case 'textpromenu':
  var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "Ig Creator",
 									"url": `${youtube}`
 									}
 								},
